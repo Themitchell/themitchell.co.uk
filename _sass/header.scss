@@ -3,7 +3,7 @@
   background-size: cover;
 }
 
-.page-header:before {
+.page-header::before {
   display: block;
   content: '';
   width: 100%;
