@@ -1,5 +1,6 @@
 ---
-layout: default
+title :  Hello World
+categories : [lessons, beginner]
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
