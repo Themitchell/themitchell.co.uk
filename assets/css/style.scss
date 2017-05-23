@@ -1,2 +1,5 @@
 @import "{{ site.theme }}";
-@import "header";
+
+.page-header {
+  background-color: black; 
+}
