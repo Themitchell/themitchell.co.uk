@@ -6,6 +6,7 @@
 
 .page-header:before {
   display: block;
+  content: '\a0';
   width: 100%;
   height: 100%;
   
