@@ -1,9 +1,12 @@
 .page-header {
+  position: relative;
+  
   background-image: url(../images/header.jpg);
   background-size: cover;
 }
 
 .page-header::before {
+  position: absolute;
   display: block;
   content: '';
   width: 100%;
